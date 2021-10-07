@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img width="100%" style="max-width:100%" src="https://github.com/scillapinheiro/b7w-awax/blob/main/starbucks-mockup.png">
+  <img width="100%" style="max-width:100%" src="https://github.com/scillapinheiro/b7web-starbucks/blob/main/starbucks-mockup.png">
 </p>
 
 ## :computer: Projeto
